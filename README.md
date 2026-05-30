@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Charles%20Francis&fontSize=42&fontColor=fff&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Charles%20Francis&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Lead%20Fullstack%20Engineer&descAlignY=62&descSize=16)
 
 <div align="center">
 
