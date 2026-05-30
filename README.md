@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Charles%20Francis&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Lead%20Fullstack%20Engineer%20%7C%20Building%20Scalable%20Systems%20%26%20High-Performance%20Web%20Apps&descAlignY=62&descSize=16" width="100%"/>
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Charles%20Francis&fontSize=42&fontColor=fff)
 
 <div align="center">
 
